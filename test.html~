@@ -5,8 +5,8 @@
 </head>
 
 <body>
-<p>sitting in class learning how to do web design and development</p>
-<p>starting with html and css</p>
-<p>eventually learning javascript maybe</p>
+<p>Hello world.</p>
+<p>This is my first webpage.</p>
+<p>It was created in Andy's Web Design and Development class in the fall of 2014.</p>
 </body>
 </html>
