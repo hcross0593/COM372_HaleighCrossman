@@ -3,31 +3,32 @@
 <head>
 <title>Haleigh Crossman</title>
 <meta charset="utf-8" />
-<link href='http://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Vollkorn' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=DancingScript' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div id="container">
 	<div id="Heading" class="Main">
 		<h1>Haleigh Crossman</h1>
+	<div id="SubHeading" class="Main">
 		<em>Everything But The Kitchen Sink</em>
-		<img src="websitepic.jpg" alt="picture of me" />
 	</div>
-	<div id="tabContainer">
-		<div id="About" class="NavBar">
-		<a href="http://aboutme.html">About</a>
-	</div>
-		<div id="Experience" class="NavBar">
-			<a href="http://myexperiences.html">Experience</a>
-	</div>
-		<div id="Contact" class="NavBar">
-			<a href="http://contactinfo.html">Contact</a>
-	</div>		
-</div>
 	<div id="box1" class="textbox">
 		<em>You don't write because you want to say something, you write because you have something to say. -F. Scott Fitzgerald</em>
 	</div>
+	<div id="tabContainer">
+		<div id="AboutBox" class="box">
+		<a href="http://aboutme.html">About Haleigh</a>
+		<img src="websitepic.jpg" alt="picture of me" style="display:block;"/>
+	</div>
+		<div id="ExperienceBox" class="box">
+			<a href="http://myexperiences.html">Experience</a>
+	</div>
+		<div id="ContactBox" class="box">
+			<a href="http://contactinfo.html">Contact</a>
+	</div>		
+</div>	
 </div>
 
 

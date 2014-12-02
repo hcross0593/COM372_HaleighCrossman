@@ -1,13 +1,18 @@
 body {
-	background-color: #85A894;
+	background-color: #34103C;
 	font-size: 100%
 }
 #Heading {
-	font-family: 'Arvo', serif;
+	font-family: 'Dancing Script', cursive;
 	padding: 1em;
+	color: silver;
 }
-.NavBar {
-	font-family: 'Raleway', sans-serif;
+#SubHeading {
+	padding: 0em;
+	color: silver;
+}
+.box {
+	font-family: 'Vollkorn', serif;
 	padding: 1em;
 	float: left;
 	width: 25%;
@@ -18,58 +23,15 @@ h1 {
 	margin: 0em;
 	padding: 0em;
 }
-h2 {
-	margin: 0em;
-	padding: 0em;
-}
-.HomepageContent {
-	text-align: justify;
-	margin: 0em;
-	padding: 0em;
-	float: right;
-	background-color: black;
-	color: silver;
-	padding-left: .5em;
-	padding-right: .5em;
-	padding-top: .5em;
-	padding-bottom: .5em;
-	margin: .25em;
-	margin-top: 0em;
-	margin-bottom: .5em;
-	border-top-left-radius: .5em;
-	border-top-right-radius: .5em;
-	border-bottom-left-radius: .5em;
-	border-bottom-right-radius: .5em;
-}
-
-.textbox {
-	text-align: justify;
-	height: 50%;
-	width: 50%;
-	padding: 2em;
-	display: inline-block;
-	background-color: black;
-	color: silver;
-	margin: .25em;
-	margin-left: 6em;
-	border: 1px solid;
-	border-top-left-radius: .5em;
-	border-top-right-radius: .5em;
-	border-bottom-left-radius: .5em;
-	border-bottom-right-radius: .5em;
-}
-
 #tabContainer {
 	width: 60%;
 }
-
 #tabContainer a:hover {
-
 }
 #tabContainer a {
 	width: 50%;
-	background-color: black;
-	color: silver;
+	background-color: #85A894;
+	color: white;
 	display: inline-block;
 	padding-left: .5em;
 	padding-right: 2em;
@@ -79,4 +41,20 @@ h2 {
 	margin-bottom: .5em;
 	border-top-left-radius: 1em;
 	border-top-right-radius: 2em;
+}
+.textbox {
+	text-align: justify;
+	height: 50%;
+	width: 56%;
+	padding: 2em;
+	display: inline-block;
+	background-color: #85A894;
+	color: white;
+	margin: .25em;
+	margin-left: 6em;
+	border: 1px solid;
+	border-top-left-radius: .5em;
+	border-top-right-radius: .5em;
+	border-bottom-left-radius: .5em;
+	border-bottom-right-radius: .5em;
 }
