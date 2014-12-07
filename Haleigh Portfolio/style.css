@@ -7,12 +7,19 @@ body {
 	font-family: 'Dancing Script', cursive;
 	color: silver;
 	padding: 0em;
-	margin-left: 6em;
+	margin-left: 3em;
 }
 #SubHeading {
 	padding: 0em;
 	color: silver;
-	margin-left: 6em;
+	margin-left: 3em;
+}
+#container {
+	margin-left: 1%;
+	margin-right: 1%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	
 }
 .box {
 	background-color: #3E6B7E;
@@ -20,13 +27,14 @@ body {
 	height: 50%;
 	width: 60%;
 	margin: 0em;
-	margin-left: 6em;
+	margin-left: 3em;
 	margin-right: .25em;
-	padding-left: 1em;
+	padding-left: .5em;
 	padding-right: 1em;
 	padding-top: .25em;
 	padding-bottom: .5em;
 	float: left;
+	min-width: 200px;
 	width: 15%;
 	text-align: justify;
 	text-decoration: underline;
@@ -41,13 +49,14 @@ body {
 	height: 50%;
 	width: 60%;
 	margin: 0em;
-	margin-left: 6em;
+	margin-left: 3em;
 	margin-right: .25em;
 	padding-left: .5em;
 	padding-right: 4em;
 	padding-top: .5em;
 	padding-bottom: .5em;
 	float: left;
+	min-width: 200px;
 	width: 15%;
 	text-align: center;
 	text-decoration: underline;
@@ -78,13 +87,13 @@ h1 {
 .textbox {
 	text-align: justify;
 	height: 60%;
-	width: 63%;
+	width: 58%;
 	padding: 2em;
 	display: inline-block;
 	background-color: #00314F;
 	color: white;
-	margin: .25em;
-	margin-left: 6em;
+	margin: .5em;
+	margin-left: 3em;
 	border: 1px solid;
 	border-top-left-radius: .5em;
 	border-top-right-radius: .5em;
