@@ -21,12 +21,11 @@ body {
 	font-family: 'Vollkorn', serif;
 	color: white;
 	width: 30%;
-	min-width: 260px;
-	margin-right: 1%;
 	padding-left: .5em;
-	padding-right: 1em;
-	padding-top: .25em;
-	padding-bottom: .5em;
+	padding-bottom:.5em;
+	min-width: 260px;
+	margin-top: .5em;
+	margin-right: 1%;
 	float: left;
 	text-align: justify;
 	text-decoration: underline;
@@ -43,8 +42,8 @@ h1 {
 	color: white;
 	display: inline-block;
 	text-align: justify;
-	padding-left: 2.5em;
 	padding-right: .5em;
+	padding-left: 2.5em;
 	margin: .5em;
 	margin-top: 0em;
 	border-radius: .5em;
