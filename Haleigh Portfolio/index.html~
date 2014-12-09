@@ -24,7 +24,7 @@
 		<img src="websitepic.jpg" alt="picture of me" style="display:block;"/>
 		
 	</div>
-		<div id="ExperienceBox" class="box">
+		<div id="ExperienceBox" class="box1">
 			<a href="myexperiences.html">Experience</a>
 			<img src="iStock_000026199975Small.jpg" alt="charles website" style="display:block;"/>
 	</div>
