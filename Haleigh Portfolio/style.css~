@@ -14,34 +14,23 @@ body {
 }
 #container {
 	width: 90%;
-	margin: 5% 20%;
+	margin: 0% 5%;
 }
 .box {
 	background-color: #3E6B7E;
 	font-family: 'Vollkorn', serif;
 	color: white;
-	height: 50%;
+	width: 30%;
 	padding-left: .5em;
-	padding-right: 1em;
-	padding-top: .25em;
-	padding-bottom: .5em;
+	padding-bottom:.5em;
+	min-width: 260px;
+	margin-top: .5em;
+	margin-right: 1%;
 	float: left;
 	text-align: justify;
 	text-decoration: underline;
 	border-radius: .5em;
 }
-.box1 {
-	background-color: #3E6B7E;
-	font-family: 'Vollkorn', serif;
-	height: 50%;
-	padding-left: .5em;
-	padding-right: 4em;
-	padding-top: .5em;
-	padding-bottom: .5em;
-	float: left;
-	text-align: center;
-	text-decoration: underline;
-	border-radius: .5em;
 h1 {
 	margin: 0em;
 	padding: 0em;
@@ -53,8 +42,8 @@ h1 {
 	color: white;
 	display: inline-block;
 	text-align: justify;
-	padding-left: 2.5em;
 	padding-right: .5em;
+	padding-left: 2.5em;
 	margin: .5em;
 	margin-top: 0em;
 	border-radius: .5em;
@@ -62,9 +51,7 @@ h1 {
 }
 .textbox {
 	text-align: justify;
-	height: 60%;
 	padding: 2em;
-	display: inline-block;
 	background-color: #00314F;
 	color: white;
 	border: 1px solid;
