@@ -5,29 +5,32 @@ body {
 }
 #Heading {
 	font-family: 'Merriweather', serif;
-	color: silver;
-	padding: 0em;
-}
+	color: white;
+	font-size: 145%;
+}	
 #SubHeading {
-	color: silver;
+	color: white;
+	padding-bottom: 2em;
+	margin-left: .5em;
+	font-size:130%;
 }
 #container {
 	width: 90%;
 	margin: 0% 5%;
 }
 .box {
-	background-color: #3E6B7E;
+	background-color: #00314F;
 	font-family: 'Merriweather', serif;
 	color: white;
-	width: 28%;
-	padding-left: 2%;
+	padding-left: 1.2%;
 	padding-bottom:.5em;
-	min-width: 260px;
+	min-width: 258px;
 	margin-top: .5em;
-	margin-right: 1%;
+	margin-right: 3%;
 	float: left;
 	text-align: justify;
 	text-decoration: underline;
+	border: 1px solid;
 	border-radius: .5em;
 	
 }
@@ -36,15 +39,31 @@ body {
 }	
 h1 {
 	margin: 0em;
+	margin-left:.25em;
 	padding: 0em;
+	display: inline-block;
+}
+h3 {
+	font-size: 160%;
+	font-weight: bolder;
+}
+.title {
+	font-size: 120%;
+	font-weight: bold;
+}	
+#tabContainer {
+	padding: 1em;
+	float: center;
 }
 #tabContainer a:hover {
 }
 #tabContainer a {
-	background-color: #3E6B7E;
+	background-color: #00314F;
 	color: white;
 	display: inline-block;
-	text-align: justify;
+	text-align: center;
+	padding-top:.5em;
+	padding-bottom: .25em;
 	padding-right: .5em;
 	padding-left: 2.5em;
 	margin: .5em;
@@ -53,9 +72,14 @@ h1 {
 
 }
 .textbox {
+	font-family: 'Old Standard TT', serif;
+	width:77%;
+	min-width:200px;
+	font-size: 190%;
 	text-align: center;
-	width: 91%;
 	padding: 1em;
+	margin-bottom: 1em;
+	margin-left:.5em;
 	background-color: #00314F;
 	color: white;
 	border: 1px solid;
