@@ -15,8 +15,18 @@ body {
 	font-size:130%;
 }
 #container {
-	width: 90%;
+	width:90%;
 	margin: 0% 5%;
+}
+#container2 {
+	width:90%;
+	margin: 0% 2.5%;
+}
+a:link {
+	color: aqua;
+}
+a:visited {
+	color:aqua;
 }
 .box {
 	background-color: #00314F;
@@ -42,6 +52,10 @@ h1 {
 	margin-left:.25em;
 	padding: 0em;
 	display: inline-block;
+}
+h2 {
+	font-size: 150%;
+	font-weight: bolder;
 }
 h3 {
 	font-size: 160%;
